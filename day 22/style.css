@@ -1,0 +1,26 @@
+.container {
+  /* direction: rtl; */
+  width: 500px;
+  height: 300px;
+  border: 2px dotted red;
+  display: flex;
+  /* flex-direction: column; */
+
+  /* flex-direction: column-reverse; */
+  /* flex-wrap: wrap-rev-rerse; */
+  /* flex-flow: row-reverse wrap-reverse; */
+
+  /* justify-content: space-around; */
+  /* justify-content: center; */
+  /* align-items: stretch; */
+
+  align-items: baseline;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(197, 233, 52);
+  margin: 5px;
+  font-size: 30px;
+}

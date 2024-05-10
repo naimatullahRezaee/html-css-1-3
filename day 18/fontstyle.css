@@ -1,0 +1,13 @@
+/* @font-face {
+  font-family: "lalezar";
+  src: url("fonts/lalezar.ttf") format("truetype"),
+    url("fonts/lalezar.woff") format("woff");
+}
+
+p {
+  font-family: "lalezar";
+} */
+
+p {
+  font-family: "Bebas Neue";
+}
