@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#header {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(69, 127, 178);
+}
+
+.container {
+  display: flex;
+}
+
+#aside {
+  width: 50%;
+  min-height: 200px;
+  max-height: 400px;
+  order: 1;
+  background-color: rgb(61, 193, 78);
+}
+#section {
+  width: 50%;
+  height: 300px;
+
+  background-color: rgb(8, 238, 242);
+}
+#footer {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(242, 217, 23);
+}
